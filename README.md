@@ -21,15 +21,15 @@ The line above is equivalent to an `<h2>` element. (Note the two pound symbols -
 For your homework:
 
 1. Learn about the different stylings for markdown. Specifically, how to do
-  1. Headings
-  1. Lists (ordered/unordered)
-  1. Code snippets (like `<h1>Code</h1>`)
-  1. Code blocks (multiple lines of code)
-  1. **Bold** and *Italic*
-  1. Tables
-  1. Hyperlinks (e.g.: [Google Home Page](www.google.ca))
-  1. Images
-  1. Other interesting things
+    1. Headings
+    1. Lists (ordered/unordered)
+    1. Code snippets (like `<h1>Code</h1>`)
+    1. Code blocks (multiple lines of code)
+    1. **Bold** and *Italic*
+    1. Tables
+    1. Hyperlinks (e.g.: [Google Home Page](www.google.ca))
+    1. Images
+    1. Other interesting things
 1. Answer the question, "What is the difference between **GitHub Flavored Markdown** (GFM) and regular markdown?"
 1. Find out how to do a checkbox in a list item using GFM.
 
